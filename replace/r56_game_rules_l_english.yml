@@ -3,13 +3,13 @@
  #####-----> Game Rules Localization <><> <><> <><> <><> <><>
 
  ###---> Game Setup: Country Boosts <><> <><> <><>
- CUSTOM_DIFFICULTY_GROUP_NAME:0 "Game Setup: Country Boosts"
+ CUSTOM_DIFFICULTY_GROUP_NAME:0 "게임 설정: 국가 강화"
 
  ###---> Game Setup: Focus Trees <><> <><> <><>
- RULE_GROUP_CHOOSE_FOCUS_TREE:0 "Game Setup: Focus Trees"
- USE_MOD_FOCUS_TREE:0 "Game Setup: Focus Tree (Experimental)"
+ RULE_GROUP_CHOOSE_FOCUS_TREE:0 "게임 설정: 국가 중점"
+ USE_MOD_FOCUS_TREE:0 "게임 설정: 국가 중점 (실험적)"
 
- RULE_OPTION_R56_TREE:0 "Road to 56 Focus Tree"
+ RULE_OPTION_R56_TREE:0 "56년을 향해서 국가 중점"
  RULE_OPTION_R56_TREE_DESC:0 "Use the default Road to 56 Focus Tree that comes with the mod."
  RULE_OPTION_MTG_DLC_TREE:0 "Man the Guns Focus Tree"
  RULE_OPTION_MTG_DLC_TREE_DESC:0 "Use the paid Man the Guns Focus Tree. Comes with minor tweaks and changes. Requires said paid expansion."
