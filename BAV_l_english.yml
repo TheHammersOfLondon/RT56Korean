@@ -11,7 +11,7 @@
  BAV_communism:0 "바이에른 평의회 공화국"
  BAV_democratic:0 "바이에른 자유국"
  BAV_neutrality:0 "바이에른 왕국"
- BAV_fascism:0 "바이에른." 
+ BAV_fascism:0 "바이에른" 
 
  #made panzerschrecks
  BAV_generic_infantry_equipment_manufacturer:0 "쉬리커 상회"
