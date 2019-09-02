@@ -1,7 +1,7 @@
 ﻿l_english:
  AST_general_motors_holden:0 "제너럴 모터스-홀덴"
  AST_de_havilland_australia:0 "드 하빌랜드 오스트레일리아"
- AST_government_aircraft_factories:0 "항공기 공장 지배"
+ AST_government_aircraft_factories:0 "국영 항공기 공장"
  AST_cockatoo_island_naval_dockyard:0 "코카투 섬 조선소"
  AST_generic_artillery_manufacturer:0 "루월트 찰스 플레티"
  #Maribyrnong Factory if another artillery manufacturer is needed (probably for cost or unique jungle bonus due to 25 pounder short)
