@@ -1,35 +1,34 @@
 ﻿l_english:
   # Ministers
- balbo_dead:0 "Italo Balbo Is Dead"
-
- ITA_carlo_favagrossa:0 "Carlo Favagrossa"
- ITA_dino_alfieri:0 "Dino Alfieri"
- ITA_giuseppe_bottai:0 "Giuseppe Bottai"
- ITA_pietro_koch:0 "Pietro Koch"
- ITA_manlio_morgagni:0 "Manlio Morgagni"
- ITA_pietro_gazzera:0 "Pietro Gazzera"
+ balbo_dead:0 "이탈로 발보는 사망했습니다"
+ ITA_carlo_favagrossa:0 "카를로 파바그로사"
+ ITA_dino_alfieri:0 "디노 알피에리"
+ ITA_giuseppe_bottai:0 "주세페 보타이"
+ ITA_pietro_koch:0 "피터 코흐"
+ ITA_manlio_morgagni:0 "마닐리오 몰가니"
+ ITA_pietro_gazzera:0 "피에트로 가제라"
 
  # Traits
- soldier_king:0 "Soldier King"
+ soldier_king:0 "전사이자 왕"
 
 
  # Decisions
- ITA_foreign_policy_fascism:0 "Fascist Foreign Policy"
- ITA_foreign_policy_fascism_desc:0 "A more active foreign policy will allow us to better defend our interests and ensure that our influence is maintained and expanded."
+ ITA_foreign_policy_fascism:0 "파시스트 외교 정책"
+ ITA_foreign_policy_fascism_desc:0 "보다 적극적인 외교정책은 우리의 이익을 보호하고 우리의 영향력이 확장될 수 있도록 해줄 것입니다."
 
- ITA_renew_the_italo_yemeni_treaty:0 "Renew The Italo-Yemeni Treaty"
- ITA_renew_the_italo_yemeni_treaty_desc:0 "The Italo-Yemeni Treaty, also known as the Treaty of San'a, was concluded in 1926. It recognized Imam Yahya Muhammad Hamid ed-Din as King of Yemen, sealed the friendship between our two nations, and recognized Yemen's claims on Aden. With the annexation of Ethiopia and the extension of our influence in the Red Sea, we should renew this treaty."
- ITA_renew_the_italo_yemeni_treaty_diplomacy:0 "Renewed The Italo-Yemeni Treaty"
- ITA_renew_the_italo_yemeni_treaty_tt:0 "Will unlock §Ydecisions§! to bring Yemen in our §Ysphere§!"
+ ITA_renew_the_italo_yemeni_treaty:0 "이탈리아-예멘 조약 갱신"
+ ITA_renew_the_italo_yemeni_treaty_desc:0 "사나 조약으로도 알려진 이탈리아-예멘 조약은 1926년 체결되었습니다. 이 조약은 야히아 무하마드 하미드 에드 딘을 예멘의 왕으로 인정하고, 두 나라의 우정을 확인하며, 아덴에 대한 영유권을 인정하는 조약이었습니다. 에티오피아의 합병과 홍해에서의 영향력 확대를 위해 이 조약을 갱신해야 합니다."
+ ITA_renew_the_italo_yemeni_treaty_diplomacy:0 "이탈리아-예멘 조약 갱신"
+ ITA_renew_the_italo_yemeni_treaty_tt:0 "이 §Y결정§!은 예멘을 우리의 §Y영향권§! 안으로 넣을 것입니다."
 
- ITA_seize_the_balearic_islands:0 "Seize The Balearic Islands"
- ITA_seize_the_balearic_islands_desc:0 "The civil war in Spain represents a golden opportunity to seize the Balearic Islands, allowing us greater control over the Western Mediterranean. However, such a brutal seizure of the territory will not go unnoticed, and the winning government in Spain is unlikely to appreciate that we have taken advantage of their weakness."
- ITA_seize_the_balearic_islands_tt:0 "§RYou will no longer be able to ally yourself with Spain§!\n"
- seized_the_baleares_flag:0 "Seized The Baleares"
+ ITA_seize_the_balearic_islands:0 "발레아레스 제도 점령"
+ ITA_seize_the_balearic_islands_desc:0 "스페인 내전은 지중해 서부에 대한 지배력을 높일 수 있는 발레아레스 제도를 점령할수 있는 절호의 기회입니다. 하지만, 이런 영토 강탈은 인정받지 못할 것이며, 내전에서 승리한 스페인 정부는 이것을 인정하려 들지 않을 것입니다."
+ ITA_seize_the_balearic_islands_tt:0 "§R당신은 스페인과 동맹을 맺을수 없을 것입니다§!\n"
+ seized_the_baleares_flag:0 "발레아레스 제도 점령"
 
- ITA_temporarly_occupy_the_baleares:0 "Temporarly Occupy The Balearic Islands"
- ITA_temporarly_occupy_the_baleares_desc:0 "The Balearic Islands are far too strategically important for us to leave them in the hands of a potentially communist regime. We will send troops to occupy the islands while promising the nationalists that they will be returned to them once the civil war is over. Of course, if they are no longer there, we would have no reason to return them..."
- ITA_temporarly_occupy_the_baleares_tt:0 "You promise to return the islands to the §gNationalists§! §Ionce the civil war is over§!. §!If the §YRepublicans§! have won, you can keep the islands, but if you refuse to give them back to the §gNationalists§!, you will face §Rheavy penalties§!"
+ ITA_temporarly_occupy_the_baleares:0 "발레아레스 제도 일시적 점령"
+ ITA_temporarly_occupy_the_baleares_desc:0 "발레아레스 제도는 공산주의 정권에게 쥐어주기에는 전략적으로 너무 중요합니다. 우리는 스페인 내전이 끝나면 제도를 돌려주겠다고 국가주의자들에게 약속하며 섬을 점령할 것입니다. 물론, 그들이 패배한다면 다시 돌려줄 이유따위는 없을 것입니다..."
+ ITA_temporarly_occupy_the_baleares_tt:0 "당신은 §g국가주의자§!들에게 §I내전이 끝나면§! 섬을 돌려주겠다고 약속했습니다. §!만약 §Y공화주의자§!들이 승리한다면 당신은 섬을 계속 점령할수 있을 것이지만, §g국가주의자§!들이 승리했음에도 섬을 돌려주지 않는다면, 당신은 §R큰 불이익§!을 얻게 될 것입니다."
 
 
 
