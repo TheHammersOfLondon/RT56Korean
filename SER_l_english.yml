@@ -192,7 +192,7 @@ l_english:
    SER_integrate_religious_minorities_focus:0 "Integrate Religious Minorities"
    SER_integrate_religious_minorities_focus_desc:0 "Our country is home to religious minorities and they should be respected in their particularisms."
 
-   SER_a_king_for_our_people_focus:0 "우리 민중들을 위한 왕"
+   SER_a_king_for_our_people_focus:0 "인민들의 왕"
    SER_a_king_for_our_people_focus_desc:0 "In order to restore the greatness of the free Croatian kingdom of the past, we must choose a king who will lead the regenerated Croatian people."
    SER_saviour_of_serbia:0 "The Bringer Of Salvation"
    SER_saviour_of_serbia_desc:0 "The Bringer Of Salvation"
@@ -200,8 +200,8 @@ l_english:
    SER_secure_flanks_desc:0 "마케도니아 재정복"
    SER_advance_north:0 "Reconquer The State of CSS"
    SER_advance_north_desc:0 "Reconquer The State of CSS"
-   SER_join_axis:0 "독일과 동맹을 맺다"
-   SER_join_axis_desc:0 "독일과 동맹을 맺다"
+   SER_join_axis:0 "독일과의 동맹"
+   SER_join_axis_desc:0 "독일과의 동맹"
 
    SER_belgrade_investments_focus:0 "Belgrade Investments"
    SER_belgrade_investments_focus_desc:0 "Belgrade is our capital and an important industrial center, it must be the at the center of our industrial policy"
