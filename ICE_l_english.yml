@@ -87,7 +87,7 @@
  ICE_close_usa_desc:0 "미합중국은 당장은 무슨 행동을 취할것 같지는 않지만 언젠가는 매우 강력한 세력이 될것임은 확실합니다. 그런 미래가 온다면 우리의 위치를 확고히 하기위해 지금 그들과 관계를 다져야 합니다."
  ICE_fas_rallies:0 "파시스트 운동 지원하기"
  ICE_fas_rallies_desc:0 "아이슬란드 민족주의당은 최근 수도 레이캬비크에서 정치활동을 벌이고 있습니다. 이를 탄압했던 과거와는 달리 이제 이 단체를 지원해야 합니다."
- ICE_sup_com:0 "노동자 권리"
+ ICE_sup_com:0 "노동자의 권리"
  ICE_sup_com_desc:0 "대공황은 우리 노동자들과 농민들을 절벽으로 내몰았습니다. 우리는 이제 그들을 보호해야하고 다시는 이런일이 발생하지 않게 조치를 취해야 합니다."
  ICE_sup_dem:0 "공화주의적 사상 발전"
  ICE_sup_dem_desc:0 "아이슬란드는 덴마크의 마지막 사슬을 잘라내야 합니다. 우리는 더이상 코펜하겐의 정책에 휘둘리지 말아야 합니다."
@@ -109,7 +109,7 @@
  ICE_usa_airport_desc:0 "미국은 케플라비크에 공항을 만들고 싶다는 의지를 보내고 있습니다. 전쟁이 끝나고 수년내로 다시 돌려준다는 약속도 포함되어 있습니다."
  ICE_fas_youth:0 "아이슬란드 소년단 창설"
  ICE_fas_youth_desc:0 "어린이들은 우리의 미래입니다. 아이슬란드의 영광을 이끌기위해 우리 어린이들을 준비시켜야 합니다!"
- ICE_fas_leader:0 "Forysta Meginreglu 실행"
+ ICE_fas_leader:0 "통솔력의 원칙"
  ICE_fas_leader_desc:0 "퓌러프린치프는 독일에서 매우 효과적이였습니다. 이런 좋은것은 우리것으로 만들어 당내 내부결속을 다져야 합니다. 오직 한사람만이 우리를 이끌것입니다."
  ICE_abolish_althing:0 "알팅그 폐지"
  ICE_abolish_althing_desc:0 "알팅그는 중요한 위치에 있지만 우유부단으로 인해 꼬여있습니다. 이런 구시대적인 정치모델로 우리를 이끌수 없습니다. 새롭게 개편된 정부는 우리의 의지대로 효율적으로 업무처리를 할것입니다."
@@ -136,7 +136,7 @@
  ICE_ally_tech:0 "연합국 과학자 단체"
  ICE_ally_tech_desc:0 "민주주의는 과학발전의 최고 전도체였고 앞으로도 그럴것입니다. 우리 과학자들은 연합국의 진보된 과학수준에 감탄을 금치 못하고 있으며 우리나라에 도움이 될 방법을 찾고 있습니다."
  ICE_shieldmaidens_desc:0 "여성들도 전투에 참여하는것은 바이킹의 오랜 전통입니다. 호랑이처럼 매섭고 치명적인 쉴드메이든은 중세 유럽의 공포였습니다. 노르드의 진정한 후손인 아이슬란드는 이런 전통을 유지해야할 권리가 있습니다. 여성들이여 무기를 들어라! 전장이 기다린다!"
- ICE_shieldmaidens:0 "쉴드메이든 군단 창설"
+ ICE_shieldmaidens:0 "스캴드메르 군단 창설"
  ICE_national_def_force:0 "국가 방위대 창설"
  ICE_national_def_force_desc:0 "우리는 전적으로 덴마크에게 안보를 위지하였습니다. 이런 받아들일 수 없는 현실은 우리 스스로 군대를 창설하여 바꿔야 합니다."
  ICE_train_reserves:0 "예비군 훈련"
@@ -172,7 +172,7 @@
  ICE_advanced_weapons:0 "진보된 무기"
  ICE_advanced_weapons_desc:0 "적들을 머릿수로 이길 수 없다면 우리의 압도적이 무기로 적들을 이겨낼것입니다!"
  ICE_establish_ifv:0 "Establish the "
- ICE_create_ifv:0 "Ísland Fyrstu Vopnin 창설"
+ ICE_create_ifv:0 "최초의 아이슬란드산 무기"
  ICE_create_ifv_desc:0 "오랫동안 해외군수업체에 우리의 안보를 의지하였습니다. 우리는 새로운 아이슬란드 군수업체를 만들어야 합니다! 우리는 우리의 운명을 스스로 개척해야 합니다!"
  ICE_coastguard:0 "해안경비대 확장"
  ICE_coastguard_desc:0 "아이슬란드의 주력 방위부대인 아이슬란드 해안경비대는 불철주야 해외의 위험으로부터 우리를 지켜주고 있습니다. 하지만 그들은 언제나 인력이 심각하게 부족하였고 지금 이를 개선해야합니다."
@@ -189,7 +189,7 @@
  ICE_dockyards_2_desc:0 "우리 새로운 조선소들은 이제막 완공되었고 해안경비대를 위한 작업이 시작되었습니다. 이제부터 확장하기만 하면 됩니다."
  ICE_ships:0 "대형함 건조 시작"
  ICE_ships_desc:0 "과거에는 우리는 대포를 얹은 어선으로 우리를 지켰지만. 이제 우리는 제대로된 군함으로 제대로된 함대를 창설할것 입니다."
- ICE_carrier:0 "프로젝트: Mávur"
+ ICE_carrier:0 "작전명: 갈매기"
  ICE_carrier_desc:0 "몇달에 걸친 디자인과 고민들 끝에 최종적으로 항공모함을 설계하였습니다. 국가 모든 예산을 쏟아부어야 완성하겠지만 분명한 무적함선이 될것입니다!"
  ICE_sub:0 "잠수함 작전"
  ICE_sub_desc:0 "우리 바다는 적함들에게 무방비하게 노출되어있고 우리는 정규함선전으로 맞설 자원이 없습니다. 잠수함 건조를 통해 이 위험을 덜 수 있을것입니다."
@@ -231,8 +231,8 @@
  ICE_disloyal_fascism2:0 "불충스런 신민"
  ICE_disloyal_fascism2_desc:0 "이 국가는 주인으로부터 해방되고 싶어하고 국가주의적 사상과 국수주의적 토론이 이어지고 있으며 거리에서 폭력적인 시위가 넘치고 있습니다."
  
- ICE_christian_x:0 "Christian X"
- ICE_christian_x_desc:0 "아이슬란드의 커져가는 독립열망을 고려하면 그는 논란의 중심에 있는 위치이긴 하지만 Christian X는 아이슬란드 현대사에서 최고로 인기있는 덴마크 군주로 남아있습니다."
+ ICE_christian_x:0 "크리스티안 10세"
+ ICE_christian_x_desc:0 "아이슬란드의 커져가는 독립열망을 고려하면 그는 논란의 중심에 있는 위치이긴 하지만 크리스티안 10세는 아이슬란드 현대사에서 최고로 인기있는 덴마크 군주로 남아있습니다."
  
  ICE_internal_conflicts:0 "당내 갈등"
  ICE_internal_conflicts_desc:0 "외부적으로는 여당은 적들에게 결연한 모습을 보여주지만 사실 내부적 갈등과 분열로 갈등을 겪고 있습니다."
@@ -334,7 +334,7 @@
     SCA_iceland.2.t:0 "영국에서 협력을 강요합니다."
     SCA_iceland.2.desc:0 "대영제국에서 최후통첩이 왔습니다. 영국 군대를 우리 나라에 주둔시키고 항구를 이용하게 허락하거나 아니면 강제로 그렇게 할것이라고 전해왔습니다."
     SCA_iceland.2.a:0 "선택의 여지가 없군."
-    SCA_iceland.2.b:0 "헛소리! (영국은 이 나라에 전쟁을 선포합니다: [Root.GetName])"
+    SCA_iceland.2.b:0 "헛소리! (영국은 [Root.GetName]에 전쟁을 선포합니다)"
     
  SCA_iceland.3:0 "아이슬란드의 확고한 민주주의 지지"
  SCA_iceland.3.t:0 "아이슬란드의 확고한 민주주의 지지"
@@ -378,7 +378,7 @@
  SCA_iceland.100.a:0 "우리는 중립을 유지한다."
  SCA_iceland.100.b:0 "독일놈들이 선을 넘었군, 전쟁이다!"
  
- SCA_can_decline_tt:0 "새로운 규칙: £trigger_yes 전쟁요청 거부가능.\n"
+ SCA_can_decline_tt:0 "새로운 규칙: £trigger_yes 참전요청 거부가능.\n"
  
  #MODIFIERS
  ICE_loyal_subject:0 "충성스러운 신민"
@@ -403,5 +403,5 @@
  DEN_ICE_research_group2_desc:0 "덴마크와 아이슬란드가 연구한 기술들의 연구시간을 줄여줍니다."
  
  #MISC
- ICE_elite_infantry:0 "Yfirstétt Fótgöngulið"
+ ICE_elite_infantry:0 "상급 보병대"
  
